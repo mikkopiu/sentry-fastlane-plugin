@@ -6,6 +6,9 @@
 
 - Enha: Pin/Bundle sentry-cli Version (#143)
 - Bump CLI from v1.72.0 to v2.5.2 (#158)
+- Bump CLI from v2.5.2 to v2.58.3 ([#111](https://github.com/mikkopiu/sentry-fastlane-plugin/pull/111))
+  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2583)
+  - [diff](https://github.com/getsentry/sentry-cli/compare/2.5.2...2.58.3)
 
 ## 1.12.3
 
